@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.device.utils;
+package com.screwd.settings.device.utils;
 
 import android.os.Bundle;
 import android.preference.Preference;

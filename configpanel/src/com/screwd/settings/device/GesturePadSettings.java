@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.settings.device;
+package com.screwd.settings.device;
 
-import com.cyanogenmod.settings.device.utils.Constants;
-import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
+import com.screwd.settings.device.utils.Constants;
+import com.screwd.settings.device.utils.NodePreferenceActivity;
 
 import android.os.Bundle;
 import android.os.IBinder;
